@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66eae7d3c8fe063151cd16ab"
+  },
+  "cantidad": 1,
+  "total": 50,
+  "fecha": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "nombreproducto": "Dark souls",
+  "nombreusuario": "Ramirezzz"
+},
+{
+  "_id": {
+    "$oid": "66eb8308d1c8d07524f16df0"
+  },
+  "cantidad": 1,
+  "total": 50,
+  "fecha": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "nombreproducto": "Dark souls",
+  "nombreusuario": "beckham699"
+},
+{
+  "_id": {
+    "$oid": "66eb834ad1c8d07524f16df5"
+  },
+  "cantidad": 1,
+  "total": 120,
+  "fecha": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "nombreproducto": "Resident evil 8",
+  "nombreusuario": "beckham699"
+},
+{
+  "_id": {
+    "$oid": "66eb834dd1c8d07524f16df6"
+  },
+  "cantidad": 1,
+  "total": 40,
+  "fecha": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "nombreproducto": "Dark souls",
+  "nombreusuario": "carlitos29"
+},
+{
+  "_id": {
+    "$oid": "66eb8352d1c8d07524f16df7"
+  },
+  "cantidad": 1,
+  "total": 40,
+  "fecha": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "nombreproducto": "Red Dead Redemption 2",
+  "nombreusuario": "carlitos29"
+}]

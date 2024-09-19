@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66eb00b2468e049c9f210ed7"
+  },
+  "nombre": "inicio",
+  "url": "pagina web/inicio"
+},
+{
+  "_id": {
+    "$oid": "66eb00f1468e049c9f210ed8"
+  },
+  "nombre": "productos",
+  "url": "pagina web/productos"
+},
+{
+  "_id": {
+    "$oid": "66eb0174468e049c9f210ed9"
+  },
+  "nombre": "contacto",
+  "url": "pagina web/contacto"
+},
+{
+  "_id": {
+    "$oid": "66eb01c2468e049c9f210eda"
+  },
+  "nombre": "usuario",
+  "url": "pagina web/usuario"
+},
+{
+  "_id": {
+    "$oid": "66eb01f7468e049c9f210edb"
+  },
+  "nombre": "compras",
+  "url": "pagina web/compras"
+},
+{
+  "_id": {
+    "$oid": "66eb021f468e049c9f210edc"
+  },
+  "nombre": "atención al cliente",
+  "url": "pagina web/atención al cliente"
+},
+{
+  "_id": {
+    "$oid": "66eb02d2468e049c9f210edd"
+  },
+  "nombre": "registro",
+  "url": "pagina web/registro"
+},
+{
+  "_id": {
+    "$oid": "66eb0352468e049c9f210ede"
+  },
+  "producto": "login",
+  "url": "pagina web/login"
+}]

@@ -1,0 +1,33 @@
+[{
+  "_comentario":"sistema en donde se registra los clientes",
+  "_id": {
+    "$oid": "66ead8b10bd44fd2f882b8be" 
+  },
+  "nombre": "Ramires chang",
+  "email": "ramirez123@gmail.com",
+  "nombreusuario": "Ramirezzz"
+},
+{
+  "_id": {
+    "$oid": "66ead8b10bd44fd2f882b8bf"
+  },
+  "nombre": "beckham espire",
+  "email": "mariagomez@gmail.com",
+  "nombreusuario": "beckham699"
+},
+{
+  "_id": {
+    "$oid": "66ead8b10bd44fd2f882b8c0"
+  },
+  "nombre": "Carlos López",
+  "email": "carlos-lopez@gmail.com",
+  "nombreusuario": "carlitos29"
+},
+{
+  "_id": {
+    "$oid": "66eb79d8d1c8d07524f16d77"
+  },
+  "email": "diegoreyna123@gmail.com",
+  "nombre": "Diego-Reyna",
+  "nombreusuario": "momazosdiego"
+}]

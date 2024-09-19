@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66ead6bcc4271685389e2293"
+  },
+  "precio": 40,
+  "stock": 5,
+  "descripcion": "Xbox,ps4,pc",
+  "nombreproducto": "Devil May Cry 5"
+},
+{
+  "_id": {
+    "$oid": "66ead6bcc4271685389e2294"
+  },
+  "precio": 40,
+  "stock": 100,
+  "descripcion": "Xbox,ps4,pc",
+  "nombreproducto": "Just dance 2020"
+},
+{
+  "_id": {
+    "$oid": "66ead6bcc4271685389e2295"
+  },
+  "precio": 50,
+  "stock": 50,
+  "descripcion": "Xbox,ps4,pc",
+  "nombreproducto": "Dark souls"
+},
+{
+  "_id": {
+    "$oid": "66eb095e468e049c9f210eeb"
+  },
+  "precio": "120",
+  "stock": "20",
+  "descripcion": "Xbox,ps4,pc",
+  "nombreproducto": "Resident evil 8"
+},
+{
+  "_id": {
+    "$oid": "66eb0a43468e049c9f210ef0"
+  },
+  "precio": 70,
+  "stock": 30,
+  "Descripcion": "Xbox,ps4,pc",
+  "nombreproducto": "Red Dead Redemption 2"
+},
+{
+  "_id": {
+    "$oid": "66eb0ae4468e049c9f210ef1"
+  },
+  "precio": 100,
+  "stock": 10,
+  "descripcion": "Xbox,ps4,pc",
+  "nombreproducto": "Yakuza Like a Dragon"
+}]

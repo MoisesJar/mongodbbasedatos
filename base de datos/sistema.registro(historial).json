@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66eb78b4d1c8d07524f16d74"
+  },
+  "usuario_id": "Ramirezzz",
+  "fecharegistro": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb7e85d1c8d07524f16d85"
+  },
+  "fecharegistro": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "usuario_id": "beckham699"
+},
+{
+  "_id": {
+    "$oid": "66eb7ee0d1c8d07524f16d8c"
+  },
+  "fecharegistro": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "usuario_id": "carlitos29"
+},
+{
+  "_id": {
+    "$oid": "66eb7efbd1c8d07524f16d8f"
+  },
+  "fecharegistro": {
+    "$date": "2024-09-18T14:46:43.469Z"
+  },
+  "usuario_id": "momazosdiego"
+}]

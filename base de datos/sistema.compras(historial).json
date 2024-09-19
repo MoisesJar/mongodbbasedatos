@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66eb7de1d1c8d07524f16d7f"
+  },
+  "nombreusuario": "Ramirezzz",
+  "nombreproducto": "Devil May Cry 5",
+  "fechacompra": "17/09/24 9:00pm"
+},
+{
+  "_id": {
+    "$oid": "66eb7f86d1c8d07524f16da0"
+  },
+  "nombreusuario": "Ramirezzz",
+  "nombreproducto": "Devil May Cry 5",
+  "fechacompra": "17/09/24 9:00pm"
+},
+{
+  "_id": {
+    "$oid": "66eb7fcfd1c8d07524f16dab"
+  },
+  "nombreusuario": "Ramirezzz",
+  "nombreproducto": "Resident evil 8",
+  "fechacompra": "17/09/24 9:00pm"
+},
+{
+  "_id": {
+    "$oid": "66eb7ff9d1c8d07524f16dae"
+  },
+  "nombreusuario": "beckham699",
+  "nombreproducto": "Resident evil 8",
+  "fechacompra": "17/09/24 10:00pm"
+},
+{
+  "_id": {
+    "$oid": "66eb809bd1c8d07524f16db3"
+  },
+  "nombreusuario": "beckham699",
+  "nombreproducto": "Resident evil 8",
+  "fechacompra": "17/09/24 10:00pm"
+}]
